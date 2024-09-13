@@ -27,6 +27,7 @@ This Python script retrieves detailed information about any country using the `C
 
 1. Clone or download this repository.
 2. Install the `countryinfo` package by running the following command:
+
    ```bash
    pip install countryinfo
    ```
