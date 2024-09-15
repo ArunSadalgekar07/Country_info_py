@@ -31,7 +31,9 @@ This Python script retrieves detailed information about any country using the `C
    ```bash
    pip install countryinfo
    ```
-
+   ```bash
+   python country_info.py
+   ```
 ## Usage
 
 1. Run the script and input the name of a country.
